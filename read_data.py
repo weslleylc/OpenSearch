@@ -15,7 +15,7 @@ index_name = variables["index"]
 # Document with index 1
 id = 1
 
-url = "{}/{}/_doc/{}".format(host, index_name, id)
+url = "{}{}/_doc/{}".format(host, index_name, id)
 
 response = get(url, auth=auth)
 
