@@ -1,0 +1,6 @@
+{
+  "host": "https://search-elastic-search-wes-g6ku236oya7bzxst6tm7t24tgy.us-east-1.es.amazonaws.com",
+  "user": "admin",
+  "password": "Sniper1010@40619840",
+  "index": "movies"
+}
